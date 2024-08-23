@@ -1,4 +1,4 @@
-# Import necessary libraries and modules
+# Import necessary libraries and modules.
 import streamlit as st
 import pandas as pd
 from pandasai import PandasAI
